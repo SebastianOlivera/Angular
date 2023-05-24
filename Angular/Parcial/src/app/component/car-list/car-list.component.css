@@ -1,0 +1,8 @@
+ul{
+    display:flex;
+    list-style: none;
+    background-color: aqua;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap: 1em
+}
